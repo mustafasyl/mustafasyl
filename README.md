@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on diverse machine learning applications<br>🌱 I’m currently learning advanced ML algorithms<br>💬 Ask me about data analysis/science<br>
+🔭 I’m currently working on advanced diverse machine learning algorithms and applications<br>💬 Ask me about data analysis/science<br>
 
 
 # 💻 Tech Stack:
